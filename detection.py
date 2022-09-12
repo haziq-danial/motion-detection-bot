@@ -12,9 +12,9 @@ import telebot
 
 
 #elegram bot token
-TOKEN = '5465039877:AAGoy7XcuJTdOU5-rZQXegRrKk0A_JpAt08'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
-chat_id = 2045556679
+chat_id = 0
 
 # construct the argument parser and parse the arguments
 ap = argparse.ArgumentParser()
